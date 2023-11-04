@@ -1,0 +1,77 @@
+"# MERN-Stack"
+
+A comprehensive guide to building a MERN (MongoDB, Express.js, React, Node.js) application from scratch, covering various aspects of web development using Node.js and related technologies.
+
+## Table of Contents
+
+## Chapter 1: Modules System, FS, REPL, NPM, Package.json
+
+[Watch Video](https://youtu.be/ChVE-JbtYbM?t=175)
+
+Introduction to Node.js modules system, File System (FS) operations, Node.js REPL, NPM (Node Package Manager), and managing dependencies with package.json.
+
+## Chapter 2: Web Server using Node JS
+
+[Watch Video](https://youtu.be/ChVE-JbtYbM?t=3391)
+
+Learn how to create a basic web server using Node.js, handling HTTP requests, and serving static files.
+
+## Chapter 3: Express JS
+
+[Watch Video](https://youtu.be/ChVE-JbtYbM?t=7631)
+
+Dive into Express.js, a popular web application framework for Node.js, to build robust and efficient web applications.
+
+## Chapter 4: REST APIs and CRUD
+
+[Watch Video](https://youtu.be/ChVE-JbtYbM?t=10913)
+
+Understand the principles of RESTful APIs and learn how to perform CRUD (Create, Read, Update, Delete) operations using Node.js and Express.js.
+
+## Chapter 5: Model View Controller (MVC) and File Structure
+
+[Watch Video](https://youtu.be/ChVE-JbtYbM?t=12836)
+
+Explore the Model-View-Controller (MVC) architecture and discover best practices for structuring your Node.js application.
+
+## Chapter 6: Mongo DB Basics, Mongo Atlas
+
+[Watch Video](https://youtu.be/ChVE-JbtYbM?t=15185)
+
+Get started with MongoDB and MongoDB Atlas for database storage and management in your MERN application.
+
+## Chapter 7: Mongoose, Schema, Model, and CRUD Operations
+
+[Watch Video](https://youtu.be/ChVE-JbtYbM?t=21726)
+
+Learn how to use Mongoose, an ODM (Object-Document Mapping) library, to interact with MongoDB, create schemas, models, and perform CRUD operations.
+
+## Chapter 8: MERN - Connecting API with React
+
+[Watch Video](https://youtu.be/ChVE-JbtYbM?t=26438)
+
+Integrate the backend API with a React frontend to create a full-stack MERN application.
+
+## Chapter 9: Deploying MERN App on Live Cloud Server
+
+[Watch Video](https://youtu.be/ChVE-JbtYbM?t=29487)
+
+Deploy your MERN application to a live cloud server, making it accessible to users worldwide.
+
+## Chapter 10: Server Side Rendering - with EJS
+
+[Watch Video](https://youtu.be/ChVE-JbtYbM?t=31734)
+
+Explore server-side rendering with EJS (Embedded JavaScript) templates, improving your application's SEO and performance.
+
+## Chapter 11: Authentication using JWT
+
+[Watch Video](https://youtu.be/ChVE-JbtYbM?t=34239)
+
+Implement user authentication using JSON Web Tokens (JWT) for secure access to your MERN application.
+
+## Chapter 12: Events, Streams, Sockets - socket.io
+
+[Watch Video](https://youtu.be/ChVE-JbtYbM?t=38550)
+
+Dive into event-driven programming, streams, and real-time communication with socket.io in your MERN application.
